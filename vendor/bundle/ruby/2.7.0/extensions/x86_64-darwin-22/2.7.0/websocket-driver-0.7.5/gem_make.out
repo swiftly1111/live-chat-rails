@@ -1,0 +1,15 @@
+current directory: /Users/fujimotoshimmaru/dev/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/fujimotoshimmaru/.rbenv/versions/2.7.1/bin/ruby -I /Users/fujimotoshimmaru/.rbenv/versions/2.7.1/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/fujimotoshimmaru/dev/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221207-7309-1sgxlmx sitelibdir\=./.gem.20221207-7309-1sgxlmx clean
+
+current directory: /Users/fujimotoshimmaru/dev/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221207-7309-1sgxlmx sitelibdir\=./.gem.20221207-7309-1sgxlmx
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/fujimotoshimmaru/dev/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221207-7309-1sgxlmx sitelibdir\=./.gem.20221207-7309-1sgxlmx install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20221207-7309-1sgxlmx
